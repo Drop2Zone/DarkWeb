@@ -506,12 +506,19 @@ h6,
 #pricing-table2-16 .mbr-plan .list-group-item {
   border-color: #cfcfcf;
 }
+#social-buttons2-1e .mbr-section-title,
+#social-buttons2-1e .btn-social {
+  color: #232323;
+}
 
 #header1-1 .mbr-section-lead {
   color: #000000;
 }
 #header1-1 .mbr-section-lead B {
   font-family: 'Roboto', sans-serif;
+}
+#msg-box1-1f H2 {
+  text-align: left;
 }
 #content8-18 .mbr-section-title,
 #content8-18 p {
