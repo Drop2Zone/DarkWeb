@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/dropzone-128x71.png",
     "noImageResize": "",
-    "google-analytics": "Drop2Zone",
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"yOtHM_u0fbeVGCPIUrcpbEk8E4Ve8mnymsxfeH9Fn1E\" />",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "mcShopcart": {
       "email": "dflames700@gmail.com",
