@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/dropzone-128x71.png",
     "noImageResize": "",
-    "google-analytics": "<meta name=\"google-site-verification\" content=\"yOtHM_u0fbeVGCPIUrcpbEk8E4Ve8mnymsxfeH9Fn1E\" />",
+    "google-analytics": "google-site-verification: googleff97e572e0d12ece.html",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "mcShopcart": {
       "email": "dflames700@gmail.com",
@@ -596,6 +596,11 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box1-1f",
           "_params": {
             "paddingTop": "1",
@@ -619,12 +624,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
           "text": "&lt;meta name=\"google-site-verification\" content=\"yOtHM_u0fbeVGCPIUrcpbEk8E4Ve8mnymsxfeH9Fn1E\" /&gt;",
-          "title": "",
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            }
-          }
+          "title": ""
         }
       ]
     },
